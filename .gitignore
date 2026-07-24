@@ -1,0 +1,17 @@
+# Dados privados
+*.rds
+*.RDS
+*.RData
+
+# RStudio
+.Rhistory
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Deploy
+rsconnect/
+
+# Sistema
+.DS_Store
+Thumbs.db
